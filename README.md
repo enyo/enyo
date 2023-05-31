@@ -14,8 +14,6 @@ The main technologies I have used in the past decade are:
 
 ### My current views 🤓
 
-I wouldn't start a project in a programming language without types anymore (if JavaScript, then I [use JSDoc to add TypeScript types](https://www.pausly.app/blog/full-type-support-with-plain-javascript)), use Svelte and SvelteKit when possible, strongly prefer plain CSS over Tailwind (mostly because I like writing CSS and use it's new features) and think that PostgreSQL is a solid database choice although it's not very exciting.
-
 I like to use simple solutions (like serverless functions with SvelteKit) instead of overengineered perfections (micro services managed with Kubernetes and Helm).
 
 I'm really excited to see where [wasm](https://developer.mozilla.org/en-US/docs/WebAssembly) will take us, especially server side wasm.

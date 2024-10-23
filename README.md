@@ -7,6 +7,7 @@ The main technologies I have used in the past decade are:
 - `Typescript`, `JavaScript`
 - `CSS`, `HTML`
 - `Svelte`, `SvelteKit`
+- `Swift`, `SwiftUI`
 - `React`, `Vue`, `Nuxt`
 - `Dart`, `Flutter`
 - `Kubernetes`
@@ -19,6 +20,8 @@ I like to use simple solutions (like serverless functions with SvelteKit) instea
 I'm really excited to see where [wasm](https://developer.mozilla.org/en-US/docs/WebAssembly) will take us, especially server side wasm.
 
 To me, one of the most exciting changes to web development are all the new CSS features.
+
+I prefer using native technologies instead of abstractions: Use the platform! I believe that the quality of native apps (web, iOS, android, etc...) is better than cross platform solutions, and that the effort that needs to be put into these cross platform solutions to make them feel somewhat native is not less than developing individual apps directly.
 
 ### Dropzone 🎯
 
